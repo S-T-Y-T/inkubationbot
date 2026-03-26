@@ -1,17 +1,17 @@
-BOT_TOKEN = "8218751049:AAHPhu3UQAI2NaHhBmqx_OHYTi1aA7OG7Cw"
+BOT_TOKEN = "ы"
 
 REQUIRED_CHANNELS = [
-    "@startup_center_fstu",
-    "@turonstartupcenter"
+    "ыu",
+    "ы"
 ]
 
-ADMIN_GROUP_ID = -5164705744
+ADMIN_GROUP_ID = -ы
 
 
-FDTU_GROUP_LINK = "https://t.me/+3d-_weGDhTk3OTIy"
-PAID_GROUP_LINK = "https://t.me/+XHDGxABM_AZkMTg6"
+FDTU_GROUP_LINK = "s"
+PAID_GROUP_LINK = "s"
 
 CARDS = [
-    {"number": "9860 0101 3292 9257", "owner": "Seitali Muratov"},
-    {"number": "5614 6819 0431 8718", "owner": "Seitali Muratov"}
+    {"number": "s", "owner": "s"},
+    {"number": "5s", "owner": "Ssv"}
 ]
